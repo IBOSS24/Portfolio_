@@ -1,4 +1,4 @@
-# Mohammed E. – Data Scientist & Machine Learning Engineer
+# Mohammed E. – Data Scientist
 
 ### 🚀 About Me  
 I am a dedicated data scientist transitioning from a seasoned radar-engineering background into building impactful AI and machine-learning solutions. With experience in hardware systems and full-stack ML workflows, I bring a unique blend of domain knowledge, programming fluency, and analytical rigor. My core mission: **turn raw data into actionable intelligence**, whether for aviation-safety, space-industry prediction, or enterprise-scale analytics.
