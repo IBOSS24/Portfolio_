@@ -115,8 +115,8 @@ A predictive ML system leveraging:
 ## 🌟 Why Work With Me?
 
 ✔ **Unique blend of engineering + deep learning expertise**  
-✔ **Strong ability to build end-to-end AI systems**  
-✔ **Focused on computer vision, aerospace analytics, and generative modeling**  
+✔ **Strong ability to build end-to-end ML projects**  
+✔ **Focused on computer vision, aerospace and maritime analytics**  
 ✔ **Proven experience with complex, real-world datasets**  
 ✔ **Driven, fast learning, and committed to high-impact results**  
 
