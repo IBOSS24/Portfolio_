@@ -31,6 +31,17 @@ I thrive on challenging problems in **aerospace, predictive maintenance, compute
 
 ## 🔥 Featured Projects
 
+### 🚦 Traffic sign classification 
+**Repo:** https://github.com/IBOSS24/Traffic_sign_classification/tree/main
+An end-to-end Computer Vision project for multiclass traffic sign classification using Convolutional Neural Networks (CNNs), deployed with Streamlit and enhanced with Grad-CAM Explainable AI visualizations.
+
+This project goes beyond standard image classification by integrating:
+- real-world deployment practices,
+- explainability (XAI),
+- confidence analysis,
+- and engineering-level debugging/serialization handling for TensorFlow/Keras production environments.
+
+---
 ### ✈️ Aircraft Surface Damage Classification & Captioning  
 **Repo:** https://github.com/IBOSS24/Aircraft-Surface-Damage-Classification-and-Captioning  
 A deep learning system that:
