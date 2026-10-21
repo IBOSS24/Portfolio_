@@ -17,15 +17,20 @@
 
 ## 🚀 About Me
 
-I am a **Data Scientist & Machine Learning Engineer** with a solid foundation in **radar engineering, signal processing, and embedded systems**.  
-I specialize in **deep learning, computer vision, unsupervised learning, and generative models**, building high-impact solutions that bridge real-world engineering with modern AI.
+I am a **Moroccan Royal Navy officer and state-qualified engineer transitioning into Data Science and Machine Learning Engineering**, with a focus on maritime applications. My background includes five years at sea and experience in maritime command centers, radar surveillance, and operational supervision. This experience shapes the questions I want to answer with data: how can we anticipate traffic bottlenecks, identify unusual vessel activity, and help operators make better-informed decisions?
 
-My mission:  
-👉 **Transform complex data into actionable intelligence — efficiently, accurately, and at scale.**
+I am building on this operational foundation through **IBM certifications, structured self-study, and hands-on projects** in machine learning, deep learning, and software engineering. My learning path has progressed from data exploration and model evaluation to **FastAPI model serving, automated testing, Docker, AWS deployment, and CI/CD**, with MLOps as the next stage. My fraud-detection API demonstrates this progression from an experimental model to a tested, containerized inference service.
 
-I bring a unique blend of **engineering discipline + ML innovation**, enabling me to design and deploy end-to-end systems — from data ingestion, feature engineering, and model training to production-ready deployment (cloud/Spark).
+My goal is to **build, deploy, test, and maintain ML systems that address practical maritime problems**. Areas I want to explore include:
 
-I thrive on challenging problems in **aerospace, predictive maintenance, computer vision, and high-stakes engineering environments.**
+- **Port congestion and vessel arrival forecasting:** anticipate traffic peaks, estimate arrival times, and support berth planning to reduce waiting times.
+- **Vessel behavior analysis:** detect unusual trajectories, loitering, or unexpected rendezvous that warrant further investigation.
+- **Illegal fishing detection:** identify activity patterns that may indicate unauthorized fishing, using vessel tracks and relevant geographic context.
+- **AIS data integrity:** flag suspicious position reports, identity inconsistencies, and possible spoofing by comparing available data sources.
+- **Predictive maintenance:** use equipment and sensor time series to identify early signs of engine or radar faults.
+- **Fuel efficiency:** analyze consumption patterns and detect anomalies to support more efficient vessel operations.
+
+These are the maritime applications I am working toward through future projects. I bring operational context to problem definition while developing the technical skills needed to turn data into reliable, useful tools for maritime professionals.
 
 ---
 
