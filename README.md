@@ -31,6 +31,23 @@ I thrive on challenging problems in **aerospace, predictive maintenance, compute
 
 ## 🔥 Featured Projects
 
+### 💳 Credit Card Fraud Detection — API & AWS Deployment
+**Repository:** [Fraud-detection-API](https://github.com/IBOSS24/Fraud-detection-API) *(private; repository access is required)*
+
+An end-to-end personal machine learning engineering project connecting a **CatBoost / PyCaret** fraud classifier to a **FastAPI** inference service and a versioned **Docker / AWS EC2** deployment workflow.
+
+- **Inference:** validated transaction inputs, fraud probability, configurable decision threshold, and separate API/model versions.
+- **Testing:** pytest endpoint tests, mocked predictions, and inference failure checks.
+- **CI and releases:** GitHub Actions tests, container readiness checks, tag-based Docker releases, and API version validation.
+- **AWS deployment:** GitHub OIDC → IAM → Systems Manager → EC2, with Green candidate validation and rollback checks.
+- **Engineering trade-off:** single-host container promotion can briefly interrupt service; health checks do not establish model quality.
+
+**Compétences illustrées :** passage d'un modèle de machine learning à un service d'inférence, tests automatisés, conteneurisation et déploiement contrôlé sur le cloud.
+
+This project demonstrates my progression toward building, testing, deploying, and maintaining ML systems. Experiment tracking and model monitoring are planned extensions.
+
+---
+
 ### 🚦 Traffic sign classification 
 **Repo:** https://github.com/IBOSS24/Traffic_sign_classification/tree/main
 
