@@ -56,54 +56,45 @@ This project goes beyond standard image classification by integrating:
 - and engineering-level debugging/serialization handling for TensorFlow/Keras production environments.
 
 ---
-### ✈️ Aircraft Surface Damage Classification & Captioning  
-**Repo:** https://github.com/IBOSS24/Aircraft-Surface-Damage-Classification-and-Captioning  
-A deep learning system that:
-- Classifies types of aircraft surface damage  
-- Generates maintenance captions using an encoder–decoder architecture  
-- Uses CNN feature extraction (VGG/ResNet) + custom NLP decoder  
-- Built for aviation safety and rapid inspection workflows  
+### ✈️ Aircraft Surface Damage Classification & Captioning
+
+**Repository:** [Aircraft Surface Damage Classification and Captioning](https://github.com/IBOSS24/Aircraft-Surface-Damage-Classification-and-Captioning)
+
+A notebook-based computer vision project exploring **surface-damage classification and image description** through two complementary models.
+
+- **Classification:** frozen ImageNet-pretrained VGG16 features with a custom Keras classifier for dents versus cracks.
+- **Image description:** pretrained Salesforce BLIP generates descriptions using different prompts.
+- **Workflow:** image preprocessing, training/validation/test splits, learning curves, and test evaluation.
+
+**Skills demonstrated:** transfer learning, image classification, pretrained vision-language models, and TensorFlow/PyTorch integration. This educational prototype provides a foundation for future work on equipment inspection and maritime maintenance imagery.
 
 ---
 
-### 🚀 SpaceX Falcon 9 — First-Stage Landing Prediction  
-**Repo:** https://github.com/IBOSS24/SpaceX_competitor_-  
-A predictive ML system leveraging:
-- Rocket telemetry, mission parameters, and environmental data  
-- Binary classification pipeline using **TensorFlow/Keras**  
-- High-precision landing predictions comparable to industry solutions  
-- Demonstrates ML’s impact in aerospace and launch analytics  
+### 🚀 SpaceX Falcon 9 — First-Stage Landing Prediction
+
+**Repository:** [SpaceX Landing Prediction](https://github.com/IBOSS24/SpaceX_competitor_-)
+
+An **IBM Data Science capstone** exploring Falcon 9 first-stage landing outcomes through data acquisition, analysis, visualization, and classical machine learning.
+
+- **Data and analysis:** API collection, web scraping, data preparation, SQL exploration, and visual analysis.
+- **Geospatial communication:** Folium launch-site maps, a Plotly Dash dashboard, and an analysis report.
+- **Model comparison:** logistic regression, SVM, decision tree, and K-nearest neighbors using scikit-learn and cross-validated parameter search.
+
+**Skills demonstrated:** working across an analytical workflow, comparing predictive baselines, and communicating findings. The repository documents evaluation improvements, including moving preprocessing inside a Pipeline before re-evaluating model scores.
 
 ---
 
 ## 🛠 Skills & Technologies
 
-### 💻 Programming
-- **Python**, NumPy, Pandas, Matplotlib, Scikit-Learn  
-- SQL · PySpark · Shell scripting  
+| Area | Skills and practical experience |
+| --- | --- |
+| **💻 Data analysis & programming** | Python, pandas, NumPy, SQL; data cleaning, exploratory analysis, visualization, and feature preparation |
+| **🤖 Machine learning** | scikit-learn, CatBoost, PyCaret; supervised learning, clustering, anomaly detection, cross-validation, imbalanced classification, and decision-threshold selection |
+| **🧠 Computer vision & deep learning** | TensorFlow/Keras, CNNs, transfer learning, Grad-CAM, and pretrained image-captioning models |
+| **⚙️ ML engineering & deployment** | FastAPI, Pydantic, pytest, Docker, GitHub Actions, and AWS EC2; validated inference, automated testing, versioned releases, health/version checks, and rollback |
+| **🛰 Maritime operations** | Experience at sea, radar surveillance, maritime command-center operations, and operational supervision |
 
-### 🤖 Machine Learning & AI
-- Regression (SLR/MLR/Ridge) · KNN · Decision Trees  
-- Cross-validation · Model evaluation metrics  
-- Principal Component Analysis (PCA)  
-- Unsupervised learning (clustering, association rules)  
-
-### 🧠 Deep Learning
-- TensorFlow · Keras  
-- CNNs · Autoencoders · Convolutional Autoencoders  
-- Transfer learning (VGG16, ResNet)  
-- Generative models (GANs, VAEs)  
-
-### ☁️ Big Data & Cloud
-- Apache Spark  
-- AWS (EC2, S3)  
-- Docker · CI/CD basics  
-
-### 🛰 Engineering Expertise
-- Radar systems  
-- Signal processing  
-- Embedded systems  
-- Predictive maintenance  
+**Currently developing:** MLOps practices for experiment tracking, model lifecycle management, and monitoring, building on an existing deployment and CI/CD foundation.
 
 ---
 
@@ -139,11 +130,10 @@ A predictive ML system leveraging:
 
 ## 🌟 Why Work With Me?
 
-✔ **Unique blend of engineering + deep learning expertise**  
-✔ **Strong ability to build end-to-end ML projects**  
-✔ **Focused on computer vision, aerospace and maritime analytics**  
-✔ **Proven experience with complex, real-world datasets**  
-✔ **Driven, fast learning, and committed to high-impact results**  
+- **Operational understanding:** Five years at sea and maritime command-center experience help me connect analytical questions to the decisions operators actually face.
+- **Hands-on delivery:** I have taken an ML model from experimentation to a tested API deployed on AWS, with containerization and controlled release workflows.
+- **Reliability-minded engineering:** I work with input validation, automated tests, deployment checks, and failure scenarios alongside model evaluation.
+- **A clear maritime purpose:** I aim to improve operational productivity through applications such as traffic forecasting, vessel behavior analysis, and equipment reliability, with success measured against a defined operational need.
 
 ---
 
