@@ -28,7 +28,7 @@ My focus is applying these capabilities to **maritime traffic forecasting, vesse
 ## 🔥 Featured Projects
 
 ### 💳 Credit Card Fraud Detection — API & AWS Deployment
-**Repository:** [Fraud-detection-API](https://github.com/IBOSS24/Fraud-detection-API) *(private; repository access is required)*
+**Repository:** [Fraud-detection-API](https://github.com/IBOSS24/Fraud-detection-API) 
 
 An end-to-end personal machine learning engineering project connecting a **CatBoost / PyCaret** fraud classifier to a **FastAPI** inference service and a versioned **Docker / AWS EC2** deployment workflow.
 
